@@ -1,0 +1,6 @@
+weather,time_of_day,road_type,speed,accident_occurred
+Clear,Day,Urban,30,0
+Rain,Night,Highway,60,1
+Fog,Day,Rural,45,0
+Clear,Night,Urban,35,0
+Rain,Day,Highway,70,1
